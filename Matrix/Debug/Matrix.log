@@ -1,0 +1,4 @@
+﻿  Matrix.cpp
+C:\Users\marcos\Documents\GitHub\School\School Work\CS3310\Matrix\Matrix_c.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\marcos\Documents\GitHub\School\School Work\CS3310\Matrix\Matrix_c.cpp(76,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Matrix.vcxproj -> C:\Users\marcos\Documents\GitHub\School\School Work\CS3310\Matrix\Debug\Matrix.exe
